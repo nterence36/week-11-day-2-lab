@@ -62,13 +62,6 @@ Use this array of Magic 8 ball responses.....
 "Magic 8 Ball express application created."
 Copyright © Per Scholas 2023
 
-// Tip Calculator
-app.get('/tip/:total/:tipPercentage', (req, res) =>{
-    const total = req.params.total
-    const tipPercentage = req.params.tipPercentage
-    const tips = (tipPercentage/100)*total
- 
-    res.send("<h2>Tips: "+tips+ "</h2>")
-})
+
 
  -->
