@@ -1,6 +1,6 @@
  # week-11-day-2-lab
-<!--Welcome to Per Scholas
-☰
+# Welcome to Per Scholas
+
 /Week 11 - Day 2
 Practice What You Learned
 First Express Lab
